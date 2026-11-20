@@ -19,3 +19,7 @@ In een .gitignore bestand zet je alle bestanden en mappen die Git moet negeren z
 ## 4. Pull
 
 Toen ik op pull klikte werd de zin die ik online op GitHub in de README had gezet meteen gedownload naar mijn eigen laptop. Daarom moet je aan het begin van elke les eerst pullen zodat je zeker weet dat je met de nieuwste versie werkt en geen conflicts krijgt
+
+## 5. Terugdraaien
+
+De foute commit verdwijnt niet uit de geschiedenis omdat Git alles onthoudt wat je ooit hebt gedaan en als je een fout terugdraait met Revert, maakt Git eigenlijk gewoon een nieuwe commit aan die precies het tegenovergestelde doet zodat je altijd nog kunt terugzien wat er eerder is gebeurd
