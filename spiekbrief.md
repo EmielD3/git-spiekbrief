@@ -11,3 +11,7 @@ Waarom is dit slecht?: je hebt geen idee wat er eigenlijk is veranderd en als er
 
 Goed voorbeeld: login knop werkt weer of navigatiebar toegevoegd aan index.html
 Waarom is dit goed?: Je ziet meteen wat je hebt gemaakt of gefixet, veel overzichtelijker
+
+## 3. Gitignore
+
+In een .gitignore bestand zet je alle bestanden en mappen die Git moet negeren zodat die niet per ongeluk mee worden geupload naar GitHub (zoals wachtwoorden of tijdelijke bestanden)
