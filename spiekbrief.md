@@ -15,3 +15,7 @@ Waarom is dit goed?: Je ziet meteen wat je hebt gemaakt of gefixet, veel overzic
 ## 3. Gitignore
 
 In een .gitignore bestand zet je alle bestanden en mappen die Git moet negeren zodat die niet per ongeluk mee worden geupload naar GitHub (zoals wachtwoorden of tijdelijke bestanden)
+
+## 4. Pull
+
+Toen ik op pull klikte werd de zin die ik online op GitHub in de README had gezet meteen gedownload naar mijn eigen laptop. Daarom moet je aan het begin van elke les eerst pullen zodat je zeker weet dat je met de nieuwste versie werkt en geen conflicts krijgt
