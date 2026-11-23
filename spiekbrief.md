@@ -26,3 +26,7 @@ De foute commit verdwijnt niet uit de geschiedenis omdat Git alles onthoudt wat 
 
 ## 6. Branches en pull requests
 Een branch is een soort aparte tak van je project waarin je veilig kunt werken zonder dat je meteen de hoofdversie stukmaakt en  hierdoor blijft main altijd de werkende versie van je code. Een pull request is een aanvraag om jouw wijzigingen uit die aparte branch weer samen te voegen met de main branch
+
+## 7. Mijn conflict
+
+Er ontstond een conflict omdat ik zowel online op GitHub als lokaal op mijn laptop dezelfde titel op regel 1 had aangepast en ik heb dit opgelost door de dubbele regels en de conflict tekens weg te halen en er 1 nette titel van te maken dus weet Git weer precies welke versie de juiste is
