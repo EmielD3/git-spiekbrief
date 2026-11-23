@@ -23,3 +23,6 @@ Toen ik op pull klikte werd de zin die ik online op GitHub in de README had geze
 ## 5. Terugdraaien
 
 De foute commit verdwijnt niet uit de geschiedenis omdat Git alles onthoudt wat je ooit hebt gedaan en als je een fout terugdraait met Revert, maakt Git eigenlijk gewoon een nieuwe commit aan die precies het tegenovergestelde doet zodat je altijd nog kunt terugzien wat er eerder is gebeurd
+
+## 6. Branches en pull requests
+Een branch is een soort aparte tak van je project waarin je veilig kunt werken zonder dat je meteen de hoofdversie stukmaakt en  hierdoor blijft main altijd de werkende versie van je code. Een pull request is een aanvraag om jouw wijzigingen uit die aparte branch weer samen te voegen met de main branch
